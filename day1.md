@@ -62,7 +62,8 @@ class Solution:
 
 ---
 
-![[https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)](day1%201c54c8a670a54c85a31aab52d0daaada/Untitled%201.png)
+![这是一个图片示例](day1-2.png)
+
 
 [https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)
 
