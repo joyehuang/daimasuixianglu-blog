@@ -1,8 +1,7 @@
 # day1
+![这是一个图片示例](day1-1.png)
 
-## 今日问题
 
-![[https://leetcode.com/problems/binary-search/description/](https://leetcode.com/problems/binary-search/description/)](day1%201c54c8a670a54c85a31aab52d0daaada/Untitled.png)
 
 [https://leetcode.com/problems/binary-search/description/](https://leetcode.com/problems/binary-search/description/)
 
