@@ -2,7 +2,7 @@
 
 ## 今日问题
 
-![Untitled](day2%2007cfdd304b8b4b8ab84bcf98a8c34196/Untitled.png)
+![Untitled](day2-1.png)
 
 两种解法：暴力遍历排序解法和双指针解法
 
@@ -48,7 +48,7 @@ class Solution:
 
 ---
 
-![Untitled](day2%2007cfdd304b8b4b8ab84bcf98a8c34196/Untitled%201.png)
+![Untitled](day2-2.png)
 
 解题方法：暴力双循环解法，滑动窗口
 
@@ -87,7 +87,7 @@ class Solution:
 
 ---
 
-![Untitled](day2%2007cfdd304b8b4b8ab84bcf98a8c34196/Untitled%202.png)
+![Untitled](day2-3.png)
 
 解题方法：固定边界模拟循环
 
