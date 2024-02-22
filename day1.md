@@ -1,5 +1,5 @@
 # day1
-![这是一个图片示例](day1-1.png)
+![这是一个图片示例](day1-2.png)
 
 
 
@@ -20,7 +20,7 @@ class Solution:
     def search(self, nums: List[int], target: int) -> int:
         left = 0
         right = len(nums) - 1
-        while left < right:
+        while left <= right:
             mid = (left + right) // 2
             if target == nums[mid]:
                 return mid
@@ -62,7 +62,7 @@ class Solution:
 
 ---
 
-![这是一个图片示例](day1-2.png)
+![这是一个图片示例](day1-1.png)
 
 
 [https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)
