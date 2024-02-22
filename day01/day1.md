@@ -2,7 +2,7 @@
 
 ## 今日问题
 
-![[https://leetcode.com/problems/binary-search/description/](https://leetcode.com/problems/binary-search/description/)](day1%201c54c8a670a54c85a31aab52d0daaada/Untitled.png)
+![[https://leetcode.com/problems/binary-search/description/](https://leetcode.com/problems/binary-search/description/)](day1-1.png)
 
 [https://leetcode.com/problems/binary-search/description/](https://leetcode.com/problems/binary-search/description/)
 
@@ -63,7 +63,7 @@ class Solution:
 
 ---
 
-![[https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)](day1%201c54c8a670a54c85a31aab52d0daaada/Untitled%201.png)
+![[https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)](day1-2.png)
 
 [https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)
 
