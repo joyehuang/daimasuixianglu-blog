@@ -142,6 +142,7 @@ class MyLinkedList:
 代码：
 
 ```python
+#时间复杂度：O(n)
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
